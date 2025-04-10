@@ -48,7 +48,6 @@ Completed in **just 48 hours** of hacking with passion, brainstorming, and sleep
 
 ---
 
-## 📸 Screenshots & Demo
 
 
 
